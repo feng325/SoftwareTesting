@@ -39,9 +39,9 @@ public class MockitoTest {
 		
 //		Average mock = mock(Average.class);
 		when(mockAverage.gradeAverage(score)).thenReturn(grade_average);
-		for(int i=0;i<9;i++) {
-			mock
-		}
+// 		for(int i=0;i<9;i++) {
+// 			mock
+// 		}
 //		double[][] class_average = 
 //		double[][] grade_average = 
 //		when(mockAverage.sub(class_average, grade_average)).thenReturn("fdas");
